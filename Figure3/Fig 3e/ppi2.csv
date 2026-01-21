@@ -1,0 +1,24 @@
+gene,group
+LDHB,Glycolysis
+PCK2,Glycolysis
+PGK1,Glycolysis
+ACLY,Glycolysis
+ALDOC,Glycolysis
+AKR1B1,other
+ATP2B4,other
+ATP5F1A,other
+FLNA,other
+SPTBN1,other
+VCP,other
+CAPZB,other
+TPI1,other
+CNN1,other
+GDI2,other
+PDIA3,other
+MDH1,oxidoreductase activity
+FASN,oxidoreductase activity
+GSTM1,oxidoreductase activity
+PRDX6,oxidoreductase activity
+DLD,oxidoreductase activity
+Glycolysis,Pathway
+oxidoreductase activity,Pathway

@@ -1,0 +1,11 @@
+Category,Term,Description,LogP,Log(q-value),Genes,Symbols,InTerm_InList
+KEGG Pathway,hsa01200,Carbon metabolism,-14.32122564,-10.573,"226,230,1738,4190,4594,5230,7086,7167","ALDOA,ALDOC,DLD,MDH1,MMUT,PGK1,TKT,TPI1",8/117
+KEGG Pathway,hsa00010,Glycolysis / Gluconeogenesis,-9.159266023,-5.712,"226,230,1738,5230,7167","ALDOA,ALDOC,DLD,PGK1,TPI1",5/67
+KEGG Pathway,hsa01230,Biosynthesis of amino acids,-8.908550294,-5.638,"226,230,5230,7086,7167","ALDOA,ALDOC,PGK1,TKT,TPI1",5/75
+KEGG Pathway,hsa00051,Fructose and mannose metabolism,-8.195845666,-5.050,"226,230,231,7167","ALDOA,ALDOC,AKR1B1,TPI1",4/34
+KEGG Pathway,hsa00030,Pentose phosphate pathway,-5.9589592,-3.014,"226,230,7086","ALDOA,ALDOC,TKT",3/31
+GO Molecular Functions,GO:0016491,oxidoreductase activity,-6.783918135,-3.735,"216,231,1738,2923,4190,5230,9588","ALDH1A1,AKR1B1,DLD,PDIA3,MDH1,PGK1,PRDX6",7/677
+GO Molecular Functions,GO:0016667,"oxidoreductase activity, acting on a sulfur group of donors",-5.173474826,-2.380,"1738,2923,5230","DLD,PDIA3,PGK1",3/56
+GO Molecular Functions,GO:0031625,ubiquitin protein ligase binding,-2.995507125,-0.478,"3326,7167,9588","HSP90AB1,TPI1,PRDX6",3/304
+GO Molecular Functions,GO:0042803,protein homodimerization activity,-2.921078929,-0.447,"3326,4594,7086,7167,2923,498","HSP90AB1,MMUT,TKT,TPI1,PDIA3,ATP5F1A",6/-
+GO Molecular Functions,GO:0008047,enzyme activator activity,-2.039361112,0.000,"216,3326,11047","ALDH1A1,HSP90AB1,ADRM1",3/-

@@ -1,0 +1,73 @@
+ID_Site,AGE,REGION,GENDER,Aging score,PRDX6_K63
+2-7-D,Young,Descending colon,Male,-2.387455908,0.048130779
+2-2-D,Middle age,Descending colon,Male,0.524668075,0.064959479
+3-2-D,Old,Descending colon,Male,0.8249186,0.04828288
+2-18-R,Young,Rectum,Female,-1.974543802,0.056693678
+3-28-R,Middle age,Rectum,Female,-0.840094082,0.058427427
+2-30-R,Old,Rectum,Female,1.161382085,0.046252033
+2-8-A,Young,Ascending colon,Male,-2.95375594,0.066710835
+3-3-A,Middle age,Ascending colon,Male,2.544436371,0.048840632
+3-4-A,Old,Ascending colon,Male,0.83424128,0.045821673
+2-18-A,Young,Ascending colon,Female,-4.32346165,0.053433596
+3-28-A,Middle age,Ascending colon,Female,0.183350339,0.053853601
+2-30-A,Old,Ascending colon,Female,0.219424019,0.054085943
+2-7-A,Young,Ascending colon,Male,1.360944001,0.06150265
+2-2-A,Middle age,Ascending colon,Male,2.434266296,0.04297136
+3-2-A,Old,Ascending colon,Male,0.286164953,0.056899128
+2-16-R,Young,Rectum,Male,-3.260455118,0.062316024
+3-15-R,Middle age,Rectum,Male,0.210620968,0.038586297
+3-7-R,Old,Rectum,Male,0.067837813,0.060470818
+2-23-A,Young,Ascending colon,Female,0.241358182,0.053454263
+2-22-A,Middle age,Ascending colon,Female,0.984428043,0.044640749
+3-25-A,Old,Ascending colon,Female,1.492287623,0.063278128
+2-20-T,Young,Transverse colon,Female,-1.833627379,0.066348581
+2-25-T,Middle age,Transverse colon,Female,-1.761192833,0.050039276
+3-18-T,Old,Transverse colon,Female,-0.3787513,0.044985281
+2-18-D,Young,Descending colon,Female,-1.490532784,0.080463548
+3-28-D,Middle age,Descending colon,Female,1.620143087,0.037748033
+2-30-D,Old,Descending colon,Female,0.487122408,0.043161558
+2-18-T,Young,Transverse colon,Female,-0.706868961,0.056401666
+3-28-T,Middle age,Transverse colon,Female,1.907090802,0.051386641
+2-30-T,Old,Transverse colon,Female,0.78246621,0.053584833
+2-16-A,Young,Ascending colon,Male,1.517413329,0.049471169
+3-15-A,Middle age,Ascending colon,Male,-1.358259877,0.075841703
+3-7-A,Old,Ascending colon,Male,4.497938818,0.036060268
+2-7-R,Young,Rectum,Male,0.993101523,0.056594912
+2-2-R,Middle age,Rectum,Male,-0.194560053,0.050518422
+3-2-R,Old,Rectum,Male,1.18938727,0.054259806
+2-8-R,Young,Rectum,Male,0.630329512,0.066578775
+3-3-R,Middle age,Rectum,Male,1.894395359,0.052070242
+3-4-R,Old,Rectum,Male,2.041513491,0.042724123
+2-8-D,Young,Descending colon,Male,-3.118891701,0.067541025
+3-3-D,Middle age,Descending colon,Male,2.448537286,0.032992991
+3-4-D,Old,Descending colon,Male,1.311581154,0.060839123
+2-20-D,Young,Descending colon,Female,-2.803712693,0.04344851
+2-25-D,Middle age,Descending colon,Female,-0.271635158,0.05020865
+3-18-D,Old,Descending colon,Female,0.12224961,0.067715979
+2-23-T,Young,Transverse colon,Female,-1.163383631,0.055434202
+2-22-T,Middle age,Transverse colon,Female,2.829050059,0.049555334
+3-25-T,Old,Transverse colon,Female,0.699332651,0.056383603
+2-23-D,Young,Descending colon,Female,-0.856075227,0.056561208
+2-22-D,Middle age,Descending colon,Female,0.521573069,0.051596744
+3-25-D,Old,Descending colon,Female,1.099447288,0.053215186
+2-16-D,Young,Descending colon,Male,0.259615752,0.043581856
+3-15-D,Middle age,Descending colon,Male,-0.398067979,0.065907443
+3-7-D,Old,Descending colon,Male,2.100181045,0.051883839
+2-7-T,Young,Transverse colon,Male,-0.677686825,0.067362237
+2-2-T,Middle age,Transverse colon,Male,1.223041709,0.018209656
+3-2-T,Old,Transverse colon,Male,2.543230927,0.075801245
+2-20-A,Young,Ascending colon,Female,0.844305511,0.065372869
+2-25-A,Middle age,Ascending colon,Female,-0.383011494,0.051949486
+3-18-A,Old,Ascending colon,Female,0.930740456,0.044050784
+2-16-T,Young,Transverse colon,Male,0.075723256,0.045267454
+3-15-T,Middle age,Transverse colon,Male,-2.054491451,0.052466173
+3-7-T,Old,Transverse colon,Male,0.829998056,0.063639512
+2-8-T,Young,Transverse colon,Male,-2.457966994,0.057970258
+3-3-T,Middle age,Transverse colon,Male,1.063772471,0.045998238
+3-4-T,Old,Transverse colon,Male,1.114426343,0.057404643
+2-23-R,Young,Rectum,Female,-1.364870493,0.049792446
+2-22-R,Middle age,Rectum,Female,5.276532221,0.064020011
+3-25-R,Old,Rectum,Female,-0.963140804,0.047560682
+2-20-R,Young,Rectum,Female,-3.370701188,0.065048429
+2-25-R,Middle age,Rectum,Female,-2.086094809,0.051658459
+3-18-R,Old,Rectum,Female,-0.642451417,0.044666252

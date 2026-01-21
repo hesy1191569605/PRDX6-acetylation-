@@ -1,0 +1,49 @@
+ID,Group,Group1,Group2,Score
+84,Con1-A,Control,A,0
+65,Con1-D,Control,D,0
+95,Con2-A,Control,A,0
+64,Con2-D,Control,D,0
+94,Con3-A,Control,A,0
+71,Con3-D,Control,D,0
+93,Con4-A,Control,A,0
+70,Con4-D,Control,D,0
+92,Con5-A,Control,A,0
+69,Con5-D,Control,D,0
+91,Con6-A,Control,A,0
+68,Con6-D,Control,D,0
+90,Con7-A,Control,A,0
+67,Con7-D,Control,D,0
+101,Con8-A,Control,A,0
+66,Con8-D,Control,D,0
+100,Con9-A,Control,A,0
+77,Con9-D,Control,D,0
+99,DSS1-A,DSS,A,3
+76,DSS1-D,DSS,D,3
+98,DSS2-A,DSS,A,2
+75,DSS2-D,DSS,D,3
+97,DSS3-A,DSS,A,3
+74,DSS3-D,DSS,D,2
+96,DSS4-A,DSS,A,2
+73,DSS4-D,DSS,D,2
+107,DSS5-A,DSS,A,3
+72,DSS5-D,DSS,D,4
+106,DSS6-A,DSS,A,2
+108,FP10-A,DSS+F. p,A,2
+85,FP10-D,DSS+F. p,D,1
+105,FP1-A,DSS+F. p,A,1
+82,FP1-D,DSS+F. p,D,1
+104,FP2-A,DSS+F. p,A,1
+81,FP2-D,DSS+F. p,D,1
+103,FP3-A,DSS+F. p,A,2
+80,FP3-D,DSS+F. p,D,2
+102,FP4-A,DSS+F. p,A,1
+79,FP4-D,DSS+F. p,D,2
+113,FP5-A,DSS+F. p,A,3
+78,FP5-D,DSS+F. p,D,1
+111,FP7-A,DSS+F. p,A,1
+88,FP7-D,DSS+F. p,D,1
+110,FP8-A,DSS+F. p,A,1
+87,FP8-D,DSS+F. p,D,1
+89,FP8-D,DSS+F. p,D,2
+109,FP9-A,DSS+F. p,A,2
+86,FP9-D,DSS+F. p,D,1
