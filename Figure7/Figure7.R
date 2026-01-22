@@ -147,7 +147,7 @@ ggsurvplot(fit,
            fun      = "pct",        # y 轴显示百分比
            conf.int = FALSE,
            censor   = FALSE,
-           palette  = c( "#A23437", "#AC6618","#4A6694"),
+           palette  = c(  "#CC6063", "#EAAC68"),
            pval     = TRUE,         # 显示 log-rank p 值
            xlab     = "Days",
            ylab     = "Survival (%)",
@@ -310,3 +310,4 @@ ggsurvplot(fit_wt,
            ylab     = "Survival (%)",
            xlim     = c(0, 27),
            ylim     = c(0, 100))
+
